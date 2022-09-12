@@ -1,5 +1,6 @@
 #!/bin/bash
 
 git clone https://github.com/SNOwGLoBES/snowglobes.git
+git checkout v1.2
 cd snowglobes
 export SNOWGLOBES=${PWD}
