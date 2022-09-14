@@ -1,0 +1,5 @@
+# Generated figures
+*.pdf
+
+# Downloaded supernova models
+SNEWPY_models/
